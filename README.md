@@ -81,6 +81,7 @@ The list does NOT contains:
 * Java8 Certified Associate Programmer Study Guide
 * (partial) Joshua Bloch - Effective Java (2017, Addison-Wesley)
 * Production ready micro-services (2017 Susan J.Fowler)
+* Kafka: The Definitive Guide (w/o ops chapters)
 
 ## To read
 The list is so long and changes so fast, there is no way to keep it updated.
