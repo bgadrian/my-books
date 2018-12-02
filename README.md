@@ -54,7 +54,8 @@ The list does NOT contains:
 * Haiganu fluviul șoaptelor  2015 Marian Coman 
 * De la zero la campion 2014 Sergiu Paraschivu
 * My brief history 2013 Stephen hawking 
-
+* Design Patterns: Elements of Reusable Object-Oriented Software (gang of four)
+* AntiPatterns
 
 ## 📚 2016
 * Croudsourcing Jeff Howe 2008
