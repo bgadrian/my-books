@@ -84,6 +84,7 @@ The list does NOT contains:
 * Production ready micro-services (2017 Susan J.Fowler)
 * Kafka: The Definitive Guide (w/o ops chapters)
 * Learning Elastic Stack 6.0 2017 Packt (w/o ops)
+* Learning Apache Cassandra, Matt Brown 2015
 
 ## To read
 The list is so long and changes so fast, there is no way to keep it updated.
