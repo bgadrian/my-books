@@ -86,6 +86,11 @@ The list does NOT contains:
 * Learning Elastic Stack 6.0 2017 Packt (w/o ops)
 * Learning Apache Cassandra, Matt Brown 2015
 
+## 2019
+* Designing Data-Intensive Applications
+* extensive study of Elasticsearch, gRPC and kafka consumers
+* study of most popular Time Series databases, messaging systems and formats, consensus algorithms and databases architectures for dejaq.io
+
 ## To read
 The list is so long and changes so fast, there is no way to keep it updated.
 
